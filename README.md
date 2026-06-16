@@ -38,6 +38,5 @@ A responsive portfolio website showcasing my skills, projects, and achievements.
 
 📫 Connect With Me
 
-* GitHub: https://github.com/varunnvm
 * LinkedIn: https://www.linkedin.com/in/varunsai-vs8341/
 * Email: varunsai8341@gmail.com
